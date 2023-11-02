@@ -1,6 +1,6 @@
 # DialCoT
 
-This is the official repository for the ACL 2023 paper "DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models"
+This is the official repository for the EMNLP 2023 paper "DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models"
 
 To further boost the reasoning capabilities of SLMs,
 we propose **Dial**ogue-guided **C**hain-**o**f-**T**hought (**DialCoT**),
@@ -50,7 +50,7 @@ git clone https://github.com/hccngu/DialCoT.git
 Create the environment and download the packages
 
 ```
-conda create -n LiveChat python==3.8
+conda create -n DialCoT python==3.8
 conda activate DialCoT
 pip install -r requirements.txt
 ```
